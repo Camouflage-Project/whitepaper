@@ -4,9 +4,9 @@
 
 ### Introduction
 
-Websites increasingly change their displayed information based on user IP address, location and demographic attributes. This creates a need for companies to do competitor analysis, price comparisons, and data extraction as a simulated user to capture this customized information. Companies which aren&#39;t aware of these practices are at risk of gathering incorrect data and left out technology-wise.
+Websites increasingly change their displayed information based on user IP address, location and demographic attributes. This creates a need for companies to do competitor analysis, price comparisons, and data extraction as a simulated user to capture this customized information. Companies which aren&#39;t aware of these practices are at risk of gathering incorrect data and falling behind technology-wise.
 
-Camouflage protocol offers a one-stop solution for companies/individuals that need an extra IP address from our rotating pool of addresses. Instead of getting data directly from a website, each customer&#39;s request first passes through a residential proxy server, before going to and receiving a response form the target website.
+Camouflage protocol offers a one-stop solution for companies/individuals that need an extra IP address from our rotating pool of addresses. Instead of getting data directly from a website, each customer&#39;s request first passes through a residential proxy server, before going to and receiving a response from the target website.
 
 From the target website&#39;s perspective, no information about the original machine is sent. Only the residential proxy device&#39;s IP address gets transmitted.
 
